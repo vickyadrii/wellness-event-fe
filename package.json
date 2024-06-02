@@ -61,5 +61,8 @@
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown",
     "*.ts": "eslint --fix"
+  },
+  "resolutions": {
+    "strip-ansi": "6.0.1"
   }
 }
