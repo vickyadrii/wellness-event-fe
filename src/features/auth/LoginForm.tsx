@@ -43,7 +43,7 @@ const LoginForm = () => {
     setIsLoading(true);
 
     try {
-      const res: ResponseSuccessJSON = await api.post("/auth/login", values);
+      const res: ResponseSuccessJSON = await api.post("/api/auth/login", values);
       const { token, ...dataWithoutToken } = res.data;
 
       dispatch(authActions.login(dataWithoutToken));
@@ -57,7 +57,6 @@ const LoginForm = () => {
     } catch (error) {
       const err = error as ResponseErrorJSON;
       console.log(err);
-      navigate("/dashboard");
 
       toast({
         title: "Error!",
