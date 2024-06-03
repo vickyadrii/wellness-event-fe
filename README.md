@@ -4,6 +4,11 @@ This project implements Mern Stack
 ## Technologies used:
 [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind)](https://skillicons.dev)
 
+## Preview
+
+<img width="1680" alt="Screenshot 2024-06-03 at 12 22 26" src="https://github.com/vickyadrii/wellness-event-fe/assets/76042524/b26599ba-e4be-4359-b44f-24ecccf023a4">
+
+
 ## Getting Started
 
 Follow the steps below to run this project on your machine.
