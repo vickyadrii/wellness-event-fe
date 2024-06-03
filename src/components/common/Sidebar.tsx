@@ -39,7 +39,7 @@ export const Sidebar = ({ className }: Props) => {
       </div>
 
       <div className="">
-        <Button variant="danger" onClick={handleLogout} className="flex items-center gap-2 justify-end">
+        <Button variant="dangerOutline" onClick={handleLogout} className="flex items-center gap-2 justify-end">
           <LogOut />
           Logout
         </Button>
