@@ -2,7 +2,7 @@
 This project implements Mern Stack
 
 ## Technologies used:
-[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,redux,tailwind)](https://skillicons.dev)
 
 ## Preview
 
